@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -n 9945 | sha256sum > hash_output.txt
